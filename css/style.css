@@ -1,0 +1,112 @@
+@import "null.css";
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap");
+.wrapper{
+   min-height: 100%;
+   overflow: hidden;
+   font-family: "Lato", sans-serif;
+}
+.content{
+   max-width: 810px;
+   margin: 0px auto;
+   font-size: 16px;
+   line-height: 160%;
+   padding: 15px 0;
+}
+h1{
+   font-weight: 900;
+   font-size: 46px;
+   line-height: 130%;
+   color: #1E212C;
+   margin-bottom: 26px;
+}
+.sub-block div{
+   display: inline-block;
+}
+.first-item span{
+   display: inline-block;
+   color: #787A80;
+}
+.first-item{
+   margin-right: 411px;
+}
+.date{
+   padding-left: 24px;
+   background: url('../img/icons/Vector\ \(Stroke\).svg')0px 4px no-repeat;
+   margin-right: 28px;
+}
+.when{
+   background: url('../img/icons/clock.svg')0px 4px no-repeat;
+   padding-left: 20px;
+}
+.second-item span{
+   font-weight: 700;
+   color: #1E212C;
+}
+.social-media{
+   display: inline-block;
+}
+.social-media li{
+   display: inline-block;
+   margin-right: 12px;
+}
+.social-media li:first-of-type{
+   margin-left: 12px;
+}
+.social-media li:last-of-type{
+   margin-right: 0;
+}
+.section-one{
+   margin-bottom: 60px;
+}
+.content-picture{
+   margin-bottom: 60px;
+}
+h3{
+   font-size: 20px;
+   line-height: 150%;
+   font-weight: 700;
+   color: #1E212C;
+   margin-bottom: 24px;
+}
+.text{
+   color: #424551;
+   text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.text-block p:first-of-type{
+   margin-bottom: 24px;
+}
+.text-block{
+   margin-bottom: 47px;
+}
+.section-two h3:last-of-type{
+   padding-left: 58px;
+   background: url('../img/icons/braces.svg')0 0 no-repeat;
+   margin-bottom: 48px;
+}
+.section-two{
+   margin-bottom: 24px;
+}
+.list li{
+   color: #424551;
+   padding-left: 32px;
+   margin-bottom: 4px;
+   background: url('../img/icons/check.svg')0 7px no-repeat;
+}
+.list li :last-of-type{
+   margin-bottom: 0;
+}
+.list{
+   margin-bottom: 24px;
+}
+.section-three p{
+   text-shadow: none;
+   margin-bottom: 63px;
+}
+.section-two p:last-of-type{
+   text-shadow: none;
+}
+.share{
+   display: block;
+   width: 142px;
+   margin-left: auto;
+}
